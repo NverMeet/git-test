@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("hello,world   5   hot fix");
         System.out.println("hello,world   push");
         System.out.println("hello,world   gitEE  push");
+        System.out.println("hello,world   gitEE  push");
+        System.out.println("修改第一次");
     }
 }
