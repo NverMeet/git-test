@@ -10,6 +10,7 @@ public class GitTest {
 
         System.out.println("hot - fix 第一次提交");
         System.out.println("master 第一次提交");
+        System.out.println("pull-test");
 
     }
 }
